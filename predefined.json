@@ -1,10 +1,41 @@
 {
   "items": [
+
+    {
+      "name": "Instagram",
+      "ipAddresses": [
+        {
+          "ipAddress": "i.instagram.com",
+          "port": 443
+        }
+      ]
+    },
+    
     {
       "name": "Instagram",
       "ipAddresses": [
         {
           "ipAddress": "gateway.instagram.com",
+          "port": 443
+        }
+      ]
+    },
+
+    {
+      "name": "Telegram",
+      "ipAddresses": [
+        {
+          "ipAddress": "149.154.167.92",
+          "port": 443
+        }
+      ]
+    },
+
+    {
+      "name": "Telegram",
+      "ipAddresses": [
+        {
+          "ipAddress": "149.154.165.96",
           "port": 443
         }
       ]
