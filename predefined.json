@@ -2,7 +2,7 @@
   "items": [
 
     {
-      "name": "Instagram",
+      "name": "Instagram1",
       "ipAddresses": [
         {
           "ipAddress": "i.instagram.com",
@@ -12,7 +12,7 @@
     },
     
     {
-      "name": "Instagram",
+      "name": "Instagram2",
       "ipAddresses": [
         {
           "ipAddress": "gateway.instagram.com",
@@ -22,7 +22,7 @@
     },
 
     {
-      "name": "Telegram",
+      "name": "Telegram1",
       "ipAddresses": [
         {
           "ipAddress": "149.154.167.92",
@@ -32,7 +32,7 @@
     },
 
     {
-      "name": "Telegram",
+      "name": "Telegram2",
       "ipAddresses": [
         {
           "ipAddress": "149.154.165.96",
@@ -42,7 +42,7 @@
     },
     
     {
-      "name": "Telegram",
+      "name": "Telegram3",
       "ipAddresses": [
         {
           "ipAddress": "t.me",
@@ -52,7 +52,7 @@
     },
     
     {
-      "name": "Twitter",
+      "name": "Twitter1",
       "ipAddresses": [
         {
           "ipAddress": "api.twitter.com",
